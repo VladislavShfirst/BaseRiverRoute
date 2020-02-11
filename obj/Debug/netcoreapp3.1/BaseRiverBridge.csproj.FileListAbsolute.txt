@@ -1,0 +1,11 @@
+D:\VisualStudioProjects\BaseRiverBridge\BaseRiverBridge\obj\Debug\netcoreapp3.1\BaseRiverBridge.csprojAssemblyReference.cache
+D:\VisualStudioProjects\BaseRiverBridge\BaseRiverBridge\obj\Debug\netcoreapp3.1\BaseRiverBridge.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\BaseRiverBridge\BaseRiverBridge\obj\Debug\netcoreapp3.1\BaseRiverBridge.AssemblyInfo.cs
+D:\VisualStudioProjects\BaseRiverBridge\BaseRiverBridge\bin\Debug\netcoreapp3.1\BaseRiverBridge.exe
+D:\VisualStudioProjects\BaseRiverBridge\BaseRiverBridge\bin\Debug\netcoreapp3.1\BaseRiverBridge.deps.json
+D:\VisualStudioProjects\BaseRiverBridge\BaseRiverBridge\bin\Debug\netcoreapp3.1\BaseRiverBridge.runtimeconfig.json
+D:\VisualStudioProjects\BaseRiverBridge\BaseRiverBridge\bin\Debug\netcoreapp3.1\BaseRiverBridge.runtimeconfig.dev.json
+D:\VisualStudioProjects\BaseRiverBridge\BaseRiverBridge\bin\Debug\netcoreapp3.1\BaseRiverBridge.dll
+D:\VisualStudioProjects\BaseRiverBridge\BaseRiverBridge\bin\Debug\netcoreapp3.1\BaseRiverBridge.pdb
+D:\VisualStudioProjects\BaseRiverBridge\BaseRiverBridge\obj\Debug\netcoreapp3.1\BaseRiverBridge.dll
+D:\VisualStudioProjects\BaseRiverBridge\BaseRiverBridge\obj\Debug\netcoreapp3.1\BaseRiverBridge.pdb
